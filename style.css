@@ -63,7 +63,7 @@ body{
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
     margin-top: 32px;
-    padding: 24px;
+    padding: 24px;
 }
 
 .parametro-titulo{
